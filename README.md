@@ -1,1 +1,1 @@
-# solid-funicular
+solid-funicular
